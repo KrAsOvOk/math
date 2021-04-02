@@ -1,0 +1,34 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.main_link{
+    padding: 10px;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+}
+.style_video{
+    width: 61%;
+    height: 653PX;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.back_btn{
+    background-color: gray;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+}
+.back_div{
+   margin-left: 80px; 
+   justify-content: flex-start;
+}
+.conteiner{
+
+}
